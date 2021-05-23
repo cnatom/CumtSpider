@@ -1,4 +1,4 @@
-import 'cumt.dart';
+import 'cumt_spider/cumt.dart';
 
 main()async{
   Cumt cumt = new Cumt('08192988','Redsunjinyi');
