@@ -1,0 +1,7 @@
+name: cumt_kxz
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  dio: ^4.0.0
+  dio_cookie_manager: ^2.0.0
+  html: ^0.14.0+4
